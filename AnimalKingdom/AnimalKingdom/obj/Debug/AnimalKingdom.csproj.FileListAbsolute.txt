@@ -1,0 +1,6 @@
+D:\GitHub\Sep_5\AnimalKingdom\AnimalKingdom\bin\Debug\AnimalKingdom.exe.config
+D:\GitHub\Sep_5\AnimalKingdom\AnimalKingdom\obj\Debug\AnimalKingdom.csprojResolveAssemblyReference.cache
+D:\GitHub\Sep_5\AnimalKingdom\AnimalKingdom\bin\Debug\AnimalKingdom.exe
+D:\GitHub\Sep_5\AnimalKingdom\AnimalKingdom\bin\Debug\AnimalKingdom.pdb
+D:\GitHub\Sep_5\AnimalKingdom\AnimalKingdom\obj\Debug\AnimalKingdom.exe
+D:\GitHub\Sep_5\AnimalKingdom\AnimalKingdom\obj\Debug\AnimalKingdom.pdb
