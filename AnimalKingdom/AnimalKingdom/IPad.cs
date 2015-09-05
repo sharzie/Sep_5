@@ -8,6 +8,7 @@ namespace AnimalKingdom
 {
     public interface IPad
     {
+        int Age { get; set; }
         string this[string s] { get; set; }
         event EventHandler<EventArgs> RangeExceeded;
     }
